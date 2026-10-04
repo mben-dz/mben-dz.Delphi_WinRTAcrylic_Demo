@@ -20,7 +20,7 @@ Target: Win64 or Win32, Windows 10 1803+.
 
 ## Video:
 
-[▶️ Watch the demo on YouTube](https://youtu.be/jc3oSnCaNfo)
+[![▶️ AcrylicDemo — Delphi WinRT](https://github.com/mben-dz/mben-dz.Delphi_WinRTAcrylic_Demo/blob/main/snapshot.png)](https://youtu.be/jc3oSnCaNfo)
 
 ## What is different from the Rust version
 * **Win2D is gone.** The Rust code uses Win2D (`win2d_uwp`) for the effect classes, `CanvasDevice`
