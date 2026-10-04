@@ -2,7 +2,7 @@
 
 Port of https://github.com/thisKai/rust-acrylic-demo using the Delphi WinRT units (`winrt.zip`).
 
-# Snapshot:
+## Snapshot:
 ![](https://github.com/mben-dz/mben-dz.Delphi_WinRTAcrylic_Demo/blob/main/snapshot.png)
 
 | Rust file            | Delphi unit            |
