@@ -1,4 +1,4 @@
-## AcrylicDemo — rust-acrylic-demo in Delphi (WinRT, no Win2D)
+## AcrylicDemo — rust-acrylic-demo in Delphi (WinRT)
 
 Port of https://github.com/thisKai/rust-acrylic-demo using the Delphi WinRT units (`Built-In Delphi winrt Units`).
 
