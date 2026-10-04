@@ -2,6 +2,9 @@
 
 Port of https://github.com/thisKai/rust-acrylic-demo using the Delphi WinRT units (`winrt.zip`).
 
+# Snapshot:
+![](https://github.com/mben-dz/mben-dz.Delphi_WinRTAcrylic_Demo/blob/main/snapshot.png)
+
 | Rust file            | Delphi unit            |
 |----------------------|------------------------|
 | `interop.rs`         | `Acrylic.Interop`      |
@@ -14,6 +17,9 @@ Port of https://github.com/thisKai/rust-acrylic-demo using the Delphi WinRT unit
 Add the winrt folder to the project search path (Winapi.UI.Composition, Winapi.Foundation,
 Winapi.CommonTypes, Winapi.SystemRT, Winapi.Storage.Streams are needed).
 Target: Win64 or Win32, Windows 10 1803+.
+
+# Video:
+
 
 ## What is different from the Rust version
 * **Win2D is gone.** The Rust code uses Win2D (`win2d_uwp`) for the effect classes, `CanvasDevice`
