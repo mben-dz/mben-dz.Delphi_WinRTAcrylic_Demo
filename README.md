@@ -1,6 +1,6 @@
 ## AcrylicDemo — rust-acrylic-demo in Delphi (WinRT, no Win2D)
 
-Port of https://github.com/thisKai/rust-acrylic-demo using the Delphi WinRT units (`Embarcadero winrt Units`).
+Port of https://github.com/thisKai/rust-acrylic-demo using the Delphi WinRT units (`Built-In Delphi winrt Units`).
 
 ## Snapshot:
 ![](https://github.com/mben-dz/mben-dz.Delphi_WinRTAcrylic_Demo/blob/main/snapshot.png)
